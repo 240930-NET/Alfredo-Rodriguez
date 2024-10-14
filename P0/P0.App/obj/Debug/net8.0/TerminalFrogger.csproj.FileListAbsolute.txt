@@ -1,0 +1,14 @@
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.AssemblyInfoInputs.cache
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.AssemblyInfo.cs
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.csproj.CoreCompileInputs.cache
+C:\Users\Someo\Documents\.NET Training\local code\P0\bin\Debug\net8.0\TerminalFrogger.exe
+C:\Users\Someo\Documents\.NET Training\local code\P0\bin\Debug\net8.0\TerminalFrogger.deps.json
+C:\Users\Someo\Documents\.NET Training\local code\P0\bin\Debug\net8.0\TerminalFrogger.runtimeconfig.json
+C:\Users\Someo\Documents\.NET Training\local code\P0\bin\Debug\net8.0\TerminalFrogger.dll
+C:\Users\Someo\Documents\.NET Training\local code\P0\bin\Debug\net8.0\TerminalFrogger.pdb
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.dll
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\refint\TerminalFrogger.dll
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.pdb
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\TerminalFrogger.genruntimeconfig.cache
+C:\Users\Someo\Documents\.NET Training\local code\P0\obj\Debug\net8.0\ref\TerminalFrogger.dll
