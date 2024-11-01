@@ -1,0 +1,14 @@
+IDEAS:
+1. Some sort fo rankdle type game for valorant/rocket league?
+2. stat tracker for a game?
+3. Some databse type site where you can see all enemies or stuff like that from a JRPG
+4. Could make a game where you input a bunch of stuff and then you play against or with the stuff you input
+5. Music playlist type app (maybe music download as well)
+6. Simple jrpg type game?
+
+
+7. (MAIN IDEA FOR NOW) Steam Game Backlog app (retrieves games from steam api but stores user information on database) https://steamcommunity.com/dev
+save info for user: (username, password, secret?, steamid maybe?)
+save backlogs(games, user they belong to?)
+might have to save individual games they own too just so we can apply the "completed", "in progress", "niot started" etc status
+save games(name, completion status, description?, playtime which can automatically set certain statuses, img, id)
